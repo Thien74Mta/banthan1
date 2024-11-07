@@ -11,3 +11,12 @@ p {
   font-weight: 500;
   font-style: normal;
 }
+h1,
+h2,
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+h1,
+h2 {
+  text-align: center;
+}
