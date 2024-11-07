@@ -20,3 +20,12 @@ h1,
 h2 {
   text-align: center;
 }
+body {
+  background-image: url(./background.png);
+}
+h1 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
